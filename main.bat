@@ -1,0 +1,1 @@
+d:/Users/FiSa/winpython/python/python.exe xender.py
